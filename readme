@@ -1,0 +1,10 @@
+1.AzimuthFromLogLatUtil         根据经纬度计算direction
+2.GetUTCTimeUtil                将字符串本地时间转化成UTC的time
+3.SampledData                   采样数据，并组成高德地图调用，需要的json对象返回
+4.WriteDatahub                  将传入的list（多条数据）入库datahub
+5.AutoGrasp                     高德抓路服务API调用
+6.AutoGraspRequest              高德抓路服务请求参数实体类
+7.GaoDeAutoGraspResponse        高德抓路服务响应参数实体类
+8.RectangleTrafficInfo          高德矩形区域交通态势API调用
+9.RectangleTrafficInfoRequest   高德矩形区域交通态势请求参数实体类
+10.GaoDeTrafficInfoResponse     高德矩形区域交通态势响应参数实体类
